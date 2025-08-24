@@ -1,13 +1,13 @@
 <!-- 1. Cabeçalho -->
 <h1 align="center">Olá, eu sou o Bruno 👋</h1>
 <p align="center">
-  Full‑stack Dev @ Banrisul • Estudante de 6° semestre de Ciência da Computação - PUCRS<br>
+  Full‑stack Dev @ Nelogica • Estudante de 6° semestre de Ciência da Computação - PUCRS<br>
   <a href="https://linkedin.com/in/brunocarlan">LinkedIn</a> • 
   <a href="mailto:brunodc04@gmail.com">E‑mail</a>
 </p>
 
 ## Sobre mim
-Sou desenvolvedor C# e Java, fullstack, com grande olhar para UX e acessibilidade. Atualmente trabalho em projetos de…
+Sou desenvolvedor full-stack C# e Vue.js na Nelogica, com um grande olhar para UX e acessibilidade. 
 
 ## 🛠️ Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
