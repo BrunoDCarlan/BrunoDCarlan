@@ -1,7 +1,7 @@
 <!-- 1. Cabeçalho -->
 <h1 align="center">Olá, eu sou o Bruno 👋</h1>
 <p align="center">
-  Full‑stack Dev @ Nelogica • Estudante de 6° semestre de Ciência da Computação - PUCRS<br>
+  Full‑stack Dev @ Nelogica • Estudante de 7° semestre de Ciência da Computação - PUCRS<br>
   <a href="https://linkedin.com/in/brunocarlan">LinkedIn</a> • 
   <a href="mailto:brunodc04@gmail.com">E‑mail</a>
 </p>
